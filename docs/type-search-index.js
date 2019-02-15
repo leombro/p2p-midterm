@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"it.unipi.di.p2p","l":"Coordinator"},{"p":"it.unipi.di.p2p","l":"Coordinator.AggregateResults"},{"p":"it.unipi.di.p2p","l":"Main"},{"p":"it.unipi.di.p2p","l":"Node"},{"p":"it.unipi.di.p2p","l":"Node.NodeAddress"},{"p":"it.unipi.di.p2p","l":"RouteLogger"},{"p":"it.unipi.di.p2p","l":"Util"}]
